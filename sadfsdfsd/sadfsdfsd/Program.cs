@@ -10,6 +10,7 @@ namespace sadfsdfsd
     {
         static void Main(string[] args)
         {
+            int m = 5;
         }
     }
 }
